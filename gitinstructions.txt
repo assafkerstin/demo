@@ -1,0 +1,41 @@
+New File:
+
+Adding the new file
+
+git add . ---> add all files
+or ---> git add filename.XX
+
+-------------------------------
+
+after adding new file/editing existing files
+need to be commited.if changed a file need to use Add like abpve too!
+O(or add . for all)
+
+in order to commit:
+
+git commit -m "Commit Title" 
+
+Make many commites and be specific about what u added
+
+---------------------------------------------------------------
+
+git clone +link to repository (in the negining getting  a fresh copy)
+
+---------------------------------------------------------------
+
+git push origin master
+
+(after first time can do git push and thats it)
+
+this updates the github!!(remote repository)
+
+------------------------------------------------------------------
+
+to update origin/master from remote (origin master) use:
+git fetch
+
+----------------------------------------------------------------
+
+to update "local" master, on which I work, use:
+git merge origin/master (update FROM origin/master)
+
