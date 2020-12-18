@@ -1,0 +1,33 @@
+{
+  "name": "fxcalc",
+  "version": "1.0.0",
+  "description": "calculate the total cost of currency exchange operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costinEEST/demo.git"
+  },
+  "keywords": [
+    "calculator",
+    "currency",
+    "exchange",
+    "forex",
+    "fx",
+    "commision",
+    "rate",
+    "difference"
+  ],
+  "author": "Assaf Kerstin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costinEEST/demo/issues"
+  },
+  "homepage": "https://github.com/costinEEST/demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
